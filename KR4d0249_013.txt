@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:22.950996
+#+DATE: 2020-03-31 11:34:23.298068
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR4d0249_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -148,7 +148,7 @@
 聞傷北客梅動是南枝悵望山菴竹青青獨守墀¶
 ¶
 　　㓜子未識面吾兒無用英家雖以儒奮身欲事農耕水¶
-竹為居處布荆令女行超然老夫婦脱粟配藜&KR0245;¶
+竹為居處布荆令女行超然老夫婦脱粟配藜羹¶
 ¶
 　　曝日二首¶
 ¶

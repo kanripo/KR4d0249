@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:22.870227
+#+DATE: 2020-03-31 11:34:23.222330
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0249_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -429,7 +429,7 @@
 持節其惠寡與鰥未知除書落何地我家懐玉江東山¶
 勿言形迹暫云逺在處孰非千萬間¶
 ¶
-　　雨珠雨玉非&KR0237;粟雨(三雨字皆去聲)雨懸知勝珠玉去年病禱¶
+　　雨珠雨玉非𥜗粟雨(三雨字皆去聲)雨懸知勝珠玉去年病禱¶
 祇如楚今嵗應祈如撒菽黄雲割盡緑浪揺可實饑腸¶
 慰枵腹㣲官但為斗食謀再拜題詩謝賢牧¶
 ¶

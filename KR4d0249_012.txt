@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:22.938852
+#+DATE: 2020-03-31 11:34:23.286090
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR4d0249_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -759,7 +759,7 @@
 ¶
 　　十一月十五日風大作偶成四十字¶
 ¶
-　　江南無此風羸疾詎煩攻異事眞同&KR0275;夸辭嬾問雄梅¶
+　　江南無此風羸疾詎煩攻異事眞同颶夸辭嬾問雄梅¶
 猶隱荆棘菊已墮蒿蓬坐撥寒灰盡詩成欠得工¶
 ¶
 　　臘月二十四夜同成父對所傳贛陳丞詩作此¶

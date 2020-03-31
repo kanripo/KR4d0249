@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:23.052787
+#+DATE: 2020-03-31 11:34:23.397749
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 21
 <pb:KR4d0249_WYG_021-1a>¶
 　　欽定四庫全書¶
@@ -583,7 +583,7 @@
 　　對面雨來山欲移援毫我亦賦新詩扁舟縱是促行去¶
 不廢小亭笻一枝¶
 ¶
-　　題泰州司理&KR0492;舍小亭¶
+　　題泰州司理𪠘舍小亭¶
 ¶
 　　鑿去為亭因得池面池老桞蔽仍虧客來不用勤修供¶
 <pb:KR4d0249_WYG_021-22b>¶

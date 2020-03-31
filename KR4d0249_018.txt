@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:23.015117
+#+DATE: 2020-03-31 11:34:23.360823
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR4d0249_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -65,7 +65,7 @@
 ¶
 　　昔去無此屋今兹更添竹吾輩固蕭閒道人殊不俗¶
 ¶
-　　𥳑周允升三首¶
+　　簡周允升三首¶
 ¶
 　　相逢亡恙外第一問書堂為說當年樹如人出屋長¶
 ¶

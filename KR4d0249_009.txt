@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:22.895391
+#+DATE: 2020-03-31 11:34:23.245345
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4d0249_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -545,7 +545,7 @@
 ¶
 <pb:KR4d0249_WYG_009-20b>¶
 　　有集能行世初疑是古人大波皆洶湧小石亦嶙峋時¶
-譽歸讎校微官尚徼巡竹塘春水滿雙𪆟㑹飛馴¶
+譽歸讎校微官尚徼巡竹塘春水滿雙鶒㑹飛馴¶
 ¶
 　　客裏仍為客天邊嬾問天春風幾經厯老病一蹁躚君¶
 句真嚴律儂詩但散禪錦囊如許借不憚手親傳¶

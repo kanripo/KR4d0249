@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 乾道稿
-#+DATE: 2020-03-31 11:34:23.092770
+#+DATE: 2020-03-31 11:34:23.436403
 #+PROPERTY: ID KR4d0249
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 24
 <pb:KR4d0249_WYG_024-1a>¶
 　　欽定四庫全書¶
@@ -446,7 +446,7 @@
 　　對月¶
 ¶
 　　風清勝夏暑月薄借秋光坐覺還神觀心期隔帝鄉滿¶
-階蛩送感何許&KR0327;飛涼盤礴俄成久軒然睡倚牆¶
+階蛩送感何許笛飛涼盤礴俄成久軒然睡倚牆¶
 ¶
 　　對月懷簽判丈兼簡文顯¶
 ¶
